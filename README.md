@@ -3,7 +3,7 @@ link to demo video : https://www.youtube.com/watch?v=bS2K5knm-s0
 
 
 ### `npm install`
-Use this command to install all the dependencies, find the list of required dependencies in [requirements.txt]
+Use this command to install all the dependencies, find the list of required dependencies at https://github.com/aavaigrocks2001/aavaig-college-hack/blob/main/requirements.txt
 
 
 
