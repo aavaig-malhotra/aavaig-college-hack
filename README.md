@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
-
 link to deployed webApp : https://verifigo-4e296.firebaseapp.com/ <br />
 link to demo video : https://www.youtube.com/watch?v=bS2K5knm-s0
 
