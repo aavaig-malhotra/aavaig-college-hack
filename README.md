@@ -1,6 +1,8 @@
 link to deployed webApp : https://verifigo-4e296.firebaseapp.com/ <br />
 link to demo video : https://www.youtube.com/watch?v=bS2K5knm-s0
 
+### `pip install`
+Use this command to install all the libraries. Find the complete list at [requirements_python](https://github.com/aavaigrocks2001/aavaig-college-hack/blob/main/image_processing/requirements_python)
 
 ### `npm install`
 Use this command to install all the dependencies, find the list of required dependencies at [requirements](https://github.com/aavaigrocks2001/aavaig-college-hack/blob/main/requirements.txt)
