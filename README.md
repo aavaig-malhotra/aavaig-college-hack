@@ -5,21 +5,7 @@ link to demo video : https://www.youtube.com/watch?v=bS2K5knm-s0
 ### `npm install`
 Use this command to install all the dependencies
 
-1. @material-ui/core: "^4.11.4",
-2. @material-ui/icons: "^4.11.2",
-    @reduxjs/toolkit: "^1.5.1",
-    @testing-library/jest-dom: "^4.2.4",
-    @testing-library/react: "^9.5.0",
-    @testing-library/user-event: "^7.2.1",
-    firebase: "^8.6.3",
-    firebase-tools: "^9.12.0",
-    react: "^17.0.2",
-    react-dom: "^17.0.2",
-    react-qr-scanner: "^1.0.0-alpha.7",
-    react-redux: "^7.2.4",
-    react-router-dom: "^5.2.0",
-    react-scripts: "4.0.3",
-    styled-components: "^5.3.0"
+
 
 
 ## Available Scripts
